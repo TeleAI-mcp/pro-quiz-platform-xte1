@@ -1,2 +1,3 @@
-# pro-quiz-platform-xte1
-A quiz and trivia platform for modern development workflows
+# Pro Quiz Platform Xte1
+
+A quiz and trivia platform for modern development workflows.
